@@ -10,7 +10,7 @@ Without this starter by [Ema Suriano](https://github.com/EmaSuriano), I'd easily
 ---
 #### Currently in the works
 
-I'm adding additional features to this portfolio, such as About Me.
+I'm adding additional features to this portfolio, such as a more feature-rich version of About Me.
 
 In addition,  I'm currently working to create my own version of a portfolio from scratch ([see repository](https://github.com/boostinwrx/tiffanyPortfolio-gatsby-styledcomp)); utilizing Gatsby, styled-components, GraphiQL, and react-spring.
 
