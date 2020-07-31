@@ -1,5 +1,5 @@
 ### Gatsby Starter
-#### This portfolio was built starting with the [Gatsby Starter: Mate](https://github.com/EmaSuriano/gatsby-starter-mate)
+#### This portfolio was built starting with the [Gatsby Starter: Mate](https://github.com/EmaSuriano/gatsby-starter-mate) starter
 
 Huge thanks to [Ema Suriano](https://github.com/EmaSuriano), the creator of the beautifully made SPA Gatsby starter this portolio was built upon, check out [gatsby-starter-mate on GitHub](https://github.com/EmaSuriano/gatsby-starter-mate).
 
