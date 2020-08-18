@@ -1,0 +1,403 @@
+{
+  "name": "Tiffany Abraham",
+  "description": "Gatsby v2 starter to create a top notch portfolio!",
+  "roles": [
+    "Ruby on Rails 🛤 💎 ",
+    "CyberSec 🔐 🌐",
+    "Full-Stack Software Engineer 👩🏻‍💻 ",
+    "React 🖥 ",
+    "Tech Writer 📝",
+    "Activist 🏳️‍🌈 ✊🏼",
+    "Photographer 📷"
+  ],
+  "socialLinks": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bk0cvfi9qtad"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2020-07-28T20:07:41.915Z",
+        "updatedAt": "2020-07-31T06:50:10.172Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/boostinwrx/",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bk0cvfi9qtad"
+          }
+        },
+        "id": "3DpgtG8qI8QCWyEAuME4Ku",
+        "type": "Entry",
+        "createdAt": "2020-07-28T20:07:43.027Z",
+        "updatedAt": "2020-07-31T06:49:22.307Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Medium",
+        "url": "https://medium.com/@tiffany.codes",
+        "fontAwesomeIcon": "medium"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bk0cvfi9qtad"
+          }
+        },
+        "id": "114ApRkJZq640w8G2GwM8w",
+        "type": "Entry",
+        "createdAt": "2020-07-28T20:07:42.770Z",
+        "updatedAt": "2020-08-18T10:56:50.940Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Contact me",
+        "url": "https://tifftiffemail.typeform.com/to/ZG59tbtK",
+        "fontAwesomeIcon": "envelope"
+      }
+    }
+  ],
+  "profile": {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "bk0cvfi9qtad"
+        }
+      },
+      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "type": "Asset",
+      "createdAt": "2020-07-28T20:07:39.495Z",
+      "updatedAt": "2020-08-01T08:19:33.534Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 3,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Mate Logo",
+      "description": "Mate Logo",
+      "file": {
+        "url": "//images.ctfassets.net/bk0cvfi9qtad/6nf3rNaaVaUqYcoAcciSeC/1484788f15d1d79150a4e1cb3e56e99f/pinkhair_logo_text.png",
+        "details": {
+          "size": 358979,
+          "image": {
+            "width": 1000,
+            "height": 1000
+          }
+        },
+        "fileName": "pinkhair_logo_text.png",
+        "contentType": "image/png"
+      }
+    }
+  },
+  "aboutMe": "Hello 👋🏼, I'm a full-stack web software engineer with experience developing full-stack web applications from scratch. \n\n🎓 In early 2020, I graduated from Flatiron School D.C.'s acclaimed Software Engineering Immersive Bootcamp. \n\nI utilize my in-depth understanding of Ruby on Rails, and JavaScript frameworks (such as React w/ Redux) to create beautifully functional web applications. 🌐\n\n\n\n## ✊🏼 What Drives Me \nA genuine passion for coding and technology drives me to improve as a developer, challenge myself, and continuously expand my technical skills. I utilize industry-standard best-practices to create quality code from the ground-up, delivering tested and optimized websites.\n\nAs a core personal goal, I'd ultimately like to use technology to contribute to positive social change to disadvantaged/minority communities. \n\n\n\n## ❤️ My Passions \nAlso,  I enjoy writing and publishing thorough technical articles 📝, diving into a wide range of tech-related topics such as in-depth coding tutorials as well as analyzing tech-industry trends.\n\nPhotography 📷 is another passion of mine that I've had since a young age, using contrast, light, shadow, and colors to create visually striking images that convey emotion as well as tell a story. \n\nUltimately as a long-time artist, I have a keen eye to construct aesthetically pleasing websites.\n\n\n## 🔐 Cyber-Security\nI have a strong interest in cyber-security, both personally and professionally. I'm thoroughly fascinated with cyber-security as a whole, and spend much of my free time continually educating myself and building my CyberSec skillset. I'm well-versed in penetration testing of systems, as well as being up-to-date on cyber-security industry standards.\n\n#### Cyber-security kills Include: \n\n- Network security\n- Endpoint security\n- Server security \n- Data security\n- Incident response and security monitoring\n- Threat modelling\n- Intrusion detection\n- Malware analysis and reversing\n- Secure software development\n- Risk analysis and mitigation\n\n\n\n## 🖥 Technologies Used\n#### Here are the technologies I'm most proficient with:\n\n- Ruby on Rails\n- React\n* Redux\n* JavaScript\n* HTML5\n* CSS\n* PostgreSQL ",
+  "mediumUser": "@tiffany.codes",
+  "projects": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bk0cvfi9qtad"
+          }
+        },
+        "id": "6Y7EIx73nUCWuoIWcsuM00",
+        "type": "Entry",
+        "createdAt": "2020-07-28T20:07:43.304Z",
+        "updatedAt": "2020-08-17T22:56:32.209Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "LGBTQ+ Meetups",
+        "publishedDate": "2020-03-08T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "bk0cvfi9qtad"
+              }
+            },
+            "id": "u3Um4zkMrAaQioyq4oSIW",
+            "type": "Asset",
+            "createdAt": "2020-07-28T20:07:39.651Z",
+            "updatedAt": "2020-08-18T07:03:05.360Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "LGBTQ+ Meetups Icon",
+            "description": "Initial render of a possible LGBTQ+ Meetups Icon (design in-progress)",
+            "file": {
+              "url": "//images.ctfassets.net/bk0cvfi9qtad/u3Um4zkMrAaQioyq4oSIW/de1989e119861d3e89913da196744132/LGBTQ-meetups-icons_0_pink_600-02.png",
+              "details": {
+                "size": 297645,
+                "image": {
+                  "width": 2501,
+                  "height": 2500
+                }
+              },
+              "fileName": "LGBTQ-meetups-icons_0_pink_600-02.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/boostinwrx/LGBTQ-meetup-app/tree/refactor",
+        "description": "This is a project I'm currently adding features to, meant to be a social network exclusively for LGBTQ+ people. With LGBTQ+ Meetups, users can find meetups near them to hang out with like-minded people",
+        "projectUrl": "https://lgbtq-meetups.herokuapp.com/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bk0cvfi9qtad"
+          }
+        },
+        "id": "2GKNR2f4z6IwAg6a2MmKCc",
+        "type": "Entry",
+        "createdAt": "2020-07-28T20:07:43.642Z",
+        "updatedAt": "2020-08-18T10:30:46.243Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "POWAH!",
+        "publishedDate": "2020-01-01T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "bk0cvfi9qtad"
+              }
+            },
+            "id": "HrJrSMKkFgwrQgO8L61JR",
+            "type": "Asset",
+            "createdAt": "2020-08-18T07:26:00.386Z",
+            "updatedAt": "2020-08-18T07:26:00.386Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Powah! Logo",
+            "description": "Powah logo red text",
+            "file": {
+              "url": "//images.ctfassets.net/bk0cvfi9qtad/HrJrSMKkFgwrQgO8L61JR/9f7412c072bb4e6175f5f1c6bf2b502a/red_text.png",
+              "details": {
+                "size": 255129,
+                "image": {
+                  "width": 1200,
+                  "height": 1200
+                }
+              },
+              "fileName": "red_text.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/boostinwrx/powaah",
+        "description": "Powah! is a concept web-application where car-enthusiasts can upload their car (with stats) to a list of cars. Users can also sort and favorite cars. Built using vanilla 100% JavaScript on the front-end, with Rails (w/ PostgreSQL) on the server-side API.",
+        "projectUrl": "https://github.com/boostinwrx/powaah",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bk0cvfi9qtad"
+          }
+        },
+        "id": "5paxSRHbAkmgMc4WSW8S66",
+        "type": "Entry",
+        "createdAt": "2020-07-28T20:07:43.944Z",
+        "updatedAt": "2020-08-18T10:30:15.173Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Liberté",
+        "publishedDate": "2019-06-01T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "bk0cvfi9qtad"
+              }
+            },
+            "id": "70N4KzMIfwRAobmZmcBH9w",
+            "type": "Asset",
+            "createdAt": "2020-08-18T10:27:19.646Z",
+            "updatedAt": "2020-08-18T10:27:19.646Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Liberte Logo ",
+            "file": {
+              "url": "//images.ctfassets.net/bk0cvfi9qtad/70N4KzMIfwRAobmZmcBH9w/3e4c5c89063cf0d7f79e1c40689ad952/liberte-01.png",
+              "details": {
+                "size": 159620,
+                "image": {
+                  "width": 2500,
+                  "height": 2500
+                }
+              },
+              "fileName": "liberte-01.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/boostinwrx/liberte1",
+        "description": "Liberté is a fashion store concept, where users can view various product categories with a variety of items, and leave reviews.",
+        "projectUrl": "https://github.com/boostinwrx/liberte1",
+        "type": "Web"
+      }
+    }
+  ]
+}
