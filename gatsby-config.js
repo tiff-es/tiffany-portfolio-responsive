@@ -1,5 +1,5 @@
 const colors = require('./colors');
-const about = import('./about.json');
+const about = require('./about.json');
 
 require('dotenv').config();
 
