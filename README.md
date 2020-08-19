@@ -10,10 +10,11 @@
 ![Netlify Status](https://api.netlify.com/api/v1/badges/a7a68d30-a8d2-4416-b9ef-ca0621a6db11/deploy-status)
  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 
-
-<img src='https://lh3.googleusercontent.com/pw/ACtC-3fcf49uMyrkDcOrIhVnRbxFQGkcmdQ5wraGPxrqqXbCeGJ5962xbxES8voSLPpIA8Jnljv0Y7kfRtLqHI75WsPnN8VUyncsIl8VoxonWd8TwR8kjBWRS5RPYSCroHGjZgrI1RkjnPG9kY6V_nkhClNcuw=w1046-h1968-no?authuser=0' width='275px' style='padding-right=10px' /><img src='https://lh3.googleusercontent.com/pw/ACtC-3fcf49uMyrkDcOrIhVnRbxFQGkcmdQ5wraGPxrqqXbCeGJ5962xbxES8voSLPpIA8Jnljv0Y7kfRtLqHI75WsPnN8VUyncsIl8VoxonWd8TwR8kjBWRS5RPYSCroHGjZgrI1RkjnPG9kY6V_nkhClNcuw=w1046-h1968-no?authuser=0' style="padding-left: 20px;" width='275px' />
-
-
+<div class="row">
+  <img  src='https://lh3.googleusercontent.com/pw/ACtC-3fcf49uMyrkDcOrIhVnRbxFQGkcmdQ5wraGPxrqqXbCeGJ5962xbxES8voSLPpIA8Jnljv0Y7kfRtLqHI75WsPnN8VUyncsIl8VoxonWd8TwR8kjBWRS5RPYSCroHGjZgrI1RkjnPG9kY6V_nkhClNcuw=w1046-h1968-no?authuser=0' width='271px' />
+ <img  src='https://lh3.googleusercontent.com/pw/ACtC-3cchm8DoQbO95jHk2b_iLBtbQ18X302nC45VT_eHCQdggs4Gq46Y7bfvabK9lLZvTpP0y931azO2Q-0a2jB4T6z8mv0ncWk3qfw2rY2uE0WibTxehxtN4FHU67lAh9yoOlMaslH0j7gHsG6bFr9D7EJ_A=w1058-h1968-no?authuser=0' width='275px' />
+  <div class="column"></div>
+</div>
 
 ---
 
